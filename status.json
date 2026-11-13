@@ -6,7 +6,7 @@
   "codes": {
     "OWNER-01": { "active": true },
     "MOUNIRR": {
-      "active": false,
+      "active": true,
       "image": "https://raw.githubusercontent.com/azararetest/score-finder-status/main/logo.png",
       "title": "الو سلام عليكم",
       "message": ""
