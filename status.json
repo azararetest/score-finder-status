@@ -5,7 +5,7 @@
   "contact": "",
   "codes": {
     "OWNER-01": { "active": true },
-    "MOUNIR": { "active": true, "until": "2027-06-30" },
+    "MOUNIR": { "active": false, "until": "2027-06-30" },
     "FRIEND-02": { "active": true },
     "FRIEND-03": {
       "active": false,
