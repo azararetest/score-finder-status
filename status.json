@@ -5,11 +5,15 @@
   "contact": "",
   "codes": {
     "OWNER-01": { "active": true },
-    "MOUNIRR": { "active": false, "image": "https://raw.githubusercontent.com/azararetest/score-finder-status/main/logo.png", "until": "2027-06-30" },
+    "MOUNIRR": {
+      "active": false,
+      "image": "https://raw.githubusercontent.com/azararetest/score-finder-status/main/logo.png",
+      "title": "",
+      "message": ""
+    },
     "FRIEND-02": { "active": true },
     "FRIEND-03": {
       "active": false,
-      
       "message": "Your access has ended.\nPlease contact the person who shared the app with you to renew it.\nانتهى وصولك إلى التطبيق. تواصل مع الشخص الذي أعطاك التطبيق للتجديد."
     }
   }
