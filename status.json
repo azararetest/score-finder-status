@@ -5,7 +5,7 @@
   "contact": "",
   "codes": {
     "OWNER-01": { "active": true },
-    "MOUNIR": { "active": false, "image": "https://raw.githubusercontent.com/azararetest/score-finder-status/main/logo.png", "until": "2027-06-30" },
+    "MOUNIRR": { "active": false, "image": "https://raw.githubusercontent.com/azararetest/score-finder-status/main/logo.png", "until": "2027-06-30" },
     "FRIEND-02": { "active": true },
     "FRIEND-03": {
       "active": false,
