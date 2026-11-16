@@ -6,10 +6,10 @@
   "codes": {
     "OWNER-01": { "active": true },
     "MOUNIR": {
-      "active": false,
+      "active": true,
       "image": "https://raw.githubusercontent.com/azararetest/score-finder-status/main/logo.png",
       "title": "الو سلام عليكم",
-      "message": "1000 دولار"
+      "message": ""
     },
     "FRIEND-02": { "active": true },
     "FRIEND-03": {
