@@ -6,9 +6,9 @@
   "codes": {
     "OWNER-01": { "active": true },
     "MOUNIR": {
-      "active": true,
+      "active": false,
       "image": "https://raw.githubusercontent.com/azararetest/score-finder-status/main/logo.png",
-      "title": "الو سلام عليكم",
+      "title": "هاك الفقيرة مك",
       "message": ""
     },
     "FRIEND-02": { "active": true },
